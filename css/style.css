@@ -1,0 +1,26 @@
+h4 {
+    color: purple;
+    font-family: cursive;
+}
+
+h5 {
+    color: darkblue;
+}
+
+h2 {
+    color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: lightyellow;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
